@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h1 data-importer="text" align="center">Turning Ideas Into Code</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=%3E+Turning+Ideas+Into+Code_;%3E+Code.+Create.+Evolve._" alt="Typing SVG" />
+</h1>
 
 ### 👩‍💻 My Journey in Code
 
