@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=%3E+Turning+Ideas+Into+Code_;%3E+Code.+Create.+Evolve._" alt="Typing SVG" />
 </h1>
 
+
+###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300" alt="Coding animation" />
+</div>
+
 ### 👩‍💻 My Journey in Code
 
 <p align="left">
@@ -17,7 +24,7 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <a href="mailto:samramunirmalik@gmail.com" title="Email me">
+  <a href="mailto:samramunirmalik@gmail.com" title="Contect me">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a><a href="https://www.linkedin.com/in/samra-munir-29806630b" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
