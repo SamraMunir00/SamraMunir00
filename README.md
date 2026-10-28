@@ -11,25 +11,44 @@
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300" alt="Coding animation" />
 </div>
 
-### 👩‍💻 About me
 
-<p align="left">
-• 💻 Full-stack developer focused on building web applications and system integrations.<br>
-• ⚙️ Experienced with Next.js, FastAPI, JavaScript/TypeScript, and Python.<br>
-• 🚀 Passionate about automation, API integrations, and building scalable solutions.
+
+<h2 align="center">
+  <samp>👋 A Little About Me</samp>
+</h2>
+
+<p align="center">
+  <samp>💻 Full-stack developer building beyond the frontend — from
+  intuitive interfaces to robust backends and seamless system
+  integrations. I have experience with
+  <code>Next.js</code>, <code>MERN</code>, <code>FastAPI</code>,
+  <code>Javascript/TypeScript</code>, and <code>Python</code>
+  to turn complex ideas into practical solutions.
+  </samp>
+</p>
+<p align="center">
+  <samp>⚙️ Passionate about automation, clean architecture, and
+  AI-powered innovation.</samp>
 </p>
 
-
 ###
-<br clear="both">
 
-<div data-importer="socials" align="center">
-  <a href="mailto:samramunirmalik@gmail.com" title="Contect me">
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="25" alt="Gmail" />
-  </a><a href="https://www.linkedin.com/in/samra-munir-29806630b" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://s.magecdn.com/social/tc-linkedin.svg" height="25" alt="LinkedIn" />
-  </a>
-</div>
+<!-- <div align="center"> -->
+<p align="center">
+    <samp>🤝 Let's Build Something Great</samp>
+    &nbsp;
+    <a href="mailto:samramunirmalik@gmail.com" title="Contact me">
+      <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
+           height="25" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/samra-munir-29806630b"
+       target="_blank" rel="noopener noreferrer" title="LinkedIn">
+      <img src="https://s.magecdn.com/social/tc-linkedin.svg"
+           height="25" alt="LinkedIn" />
+    </a>
+</p/>
+<!-- </div> -->
 
 ###
 
@@ -37,11 +56,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="center">🛠 I code with</h3>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
