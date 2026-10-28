@@ -35,7 +35,7 @@
 
 <!-- <div align="center"> -->
 <p align="center">
-    <samp>🤝 Let's Build Something Great</samp>
+    🤝 Let's Build Something Great
     &nbsp;
     <a href="mailto:samramunirmalik@gmail.com" title="Contact me">
       <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
@@ -52,13 +52,15 @@
 
 ###
 
-<p data-importer="text" align="left"></p>
 
-###
+<p data-importer="text" align="left"></p>
+<br></br>
+
+
 
 <h3 data-importer="text" align="center">🛠 I code with</h3>
+<hr/>
 
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
