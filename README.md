@@ -25,9 +25,9 @@
 
 <div data-importer="socials" align="center">
   <a href="mailto:samramunirmalik@gmail.com" title="Contect me">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="25" alt="Gmail" />
   </a><a href="https://www.linkedin.com/in/samra-munir-29806630b" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://s.magecdn.com/social/tc-linkedin.svg" height="25" alt="LinkedIn" />
   </a>
 </div>
 
