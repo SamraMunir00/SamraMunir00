@@ -13,8 +13,8 @@
 
 
 
-<h2 align="center">
-  <samp>👋 A Little About Me</samp>
+<h2 align="left">
+  👋 A Little About Me
 </h2>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ###
 
 <!-- <div align="center"> -->
-<p align="center">
+<!-- <p align="left">
     🤝 Let's Build Something Great
     &nbsp;
     <a href="mailto:samramunirmalik@gmail.com" title="Contact me">
@@ -47,7 +47,7 @@
       <img src="https://s.magecdn.com/social/tc-linkedin.svg"
            height="25" alt="LinkedIn" />
     </a>
-</p/>
+</p/> -->
 <!-- </div> -->
 
 ###
@@ -58,9 +58,9 @@
 
 
 
-<h3 data-importer="text" align="left">🛠 I code with</h3>
-<hr/>
+<h2 data-importer="text" align="left">🛠 I code with</h2>
 
+<!-- <hr/> -->
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -115,7 +115,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  /> -->
 </div>
 
 
