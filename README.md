@@ -58,7 +58,7 @@
 
 
 
-<h3 data-importer="text" align="center">🛠 I code with</h3>
+<h3 data-importer="text" align="left">🛠 I code with</h3>
 <hr/>
 
 
@@ -117,5 +117,15 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=samramunir00&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Statistics"
+  />
+</p>
 
 ###
